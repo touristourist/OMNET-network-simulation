@@ -1,0 +1,3 @@
+package sensorBs;
+
+@license(LGPL);
